@@ -19,7 +19,14 @@ My talking application has both stateless and statefull widgets, and it has a lo
 
 With more users worldwide than traditional social networks, messaging apps will have a bigger impact on the dissemination of digital news in the future.
 
-Resources, concepts, packages, responsive applications, user interfaces, authentication, and real-time data storage are all included in the SDLC.
+## SDLC
+
+- Concept
+- Resources
+- User Interface
+- Authenticate 
+- Real-time Data Storage
+- Packages
 
 I'm included the references and the summary.
 
